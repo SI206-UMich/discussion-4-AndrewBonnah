@@ -6,7 +6,7 @@ class Rectangle():
     # It sets an instance variable, "height" to the passed argument, height
 
     # YOUR CODE HERE
-
+little change
 
 
     # Create the "__str__" method
