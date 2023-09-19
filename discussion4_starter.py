@@ -58,6 +58,8 @@ class Rectangle():
     # Otherwise, it returns the perimeter of the rectangle.
 
     # YOUR CODE HERE
+    """this was a beautiful statement that is able to concatonate this into one line it's a great example of how return 
+    is a statement that can be used in a single line. This one is so long it may as well be a lambda function!"""
     def perimeter(self):
         return (2 * self.width) + (2 * self.height) if self.verify_input() else "Invalid input"
 
