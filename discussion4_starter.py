@@ -34,7 +34,10 @@ class Rectangle():
     #       False otherwise
 
     # YOUR CODE HERE
+    """this is automatically a boolean when you do a comparitve statement
+    I was confused on this, so this was a good refresher for me"""
     def verify_input(self):
+
         return (self.width > 0) and (self.height > 0)
 
 
